@@ -195,6 +195,11 @@ hash = "5c7befbd8ff7d724b392889808ce3bd02f231196cf835414e113ef78b92179fe"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "6bdb2db8504342c1d14f649cf26720578713f093c32e09c2cb43fcea0ebaa000"
 metafile = true
