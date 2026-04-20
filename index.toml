@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "64b3518d2d05d07139d18c378366b3adc282d04b10cd2070345551dbc7207a6b"
+hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
 metafile = true
 
 [[files]]
@@ -286,12 +286,17 @@ metafile = true
 
 [[files]]
 file = "mods/daily-boss-x-bosses-of-mass-destruction.pw.toml"
-hash = "18c8ae795b28d36962e99b44ba1e2a20848e5ee323eca838c12861a0e16d5830"
+hash = "2f5ef05aafaac2d780de62e816359c06ffb6235fc39b7f3d045dafd9381f1b6d"
+metafile = true
+
+[[files]]
+file = "mods/daily-boss-x-bossesrise.pw.toml"
+hash = "39586766931debab383a61f7ebb20d72f208bf37ecb870fcb8dd2070bae5f1c8"
 metafile = true
 
 [[files]]
 file = "mods/daily-boss.pw.toml"
-hash = "52ef4be8309f7f7dc650d7ff306389e413f96e1cb50cbd7c4c76cd3bd662cd37"
+hash = "c628efd18c2eba77fb2432d7061cb24729c10e31b2ab740ae924df49b5db69df"
 metafile = true
 
 [[files]]
@@ -302,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/daily-quests.pw.toml"
 hash = "16c84ed2a16498eb234173e7133229957ef0c43d47da44ae18888eb68b7d57b3"
-metafile = true
-
-[[files]]
-file = "mods/dailyboss-x-bossesrise.pw.toml"
-hash = "50262d5097c68b18c8727acb65a4813ed58ad9ecde4c98c9494b3485740dd961"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "67f2c17eba534ea6f5a577b0c8b566dc60ff90385c1aa5787a47a4b046cb1d47"
+hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "97333b5d297e656725653bc86b3c8238367cc71d223fe7a2b40aab4e3ce6104a"
+hash = "44dde164b3d9e130a8d8dd6ff84bfcc936825465b966a06c7358f0ddf3660fd0"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "ace6567fbba4d94443e663ff72518d2242a822489e5059ad71fdf4fce6630386"
+hash = "252547b364471df931005a57234082388e74eed949387ef39d17ce5fc56e190d"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e363a4de151dda6ea2bb6e5bacf7181de2e4206e9f6c27191398d888e72329aa"
+hash = "a8ac5ced9cafa5cf53d9f4d0cb61df06729d1a7b66b88d6b5a2e609b1ca26fa0"
 metafile = true
 
 [[files]]

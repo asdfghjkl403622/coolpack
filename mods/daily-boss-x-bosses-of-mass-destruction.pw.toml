@@ -3,11 +3,11 @@ filename = "DailyBoss-BossesofMassDestruction-1.21.1-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "125aeeee2146475baa6ff63fd2181f703f8168ab"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gdAvnliW/versions/Z7AwFNLE/DailyBoss-BossesofMassDestruction-1.21.1-1.0.jar"
+hash-format = "sha512"
+hash = "5739e8e84eb0c68b69888d65b49e8594188cad968e53e91dfa583f12d021f7a7a0ac7029718fb600ae81cbf5d2bda983ac620562143a0144cb909cd1c7e76c08"
 
 [update]
-[update.curseforge]
-file-id = 7201342
-project-id = 1381056
+[update.modrinth]
+mod-id = "gdAvnliW"
+version = "Z7AwFNLE"

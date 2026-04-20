@@ -3,11 +3,11 @@ filename = "DailyBoss-1.21.1-1.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c2820b6222fb8f209d04347c2bfb2fa6dee3c564"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/mJhVtlhq/versions/JrZUtgNz/DailyBoss-1.21.1-1.8.jar"
+hash-format = "sha512"
+hash = "a18e51307a4a2e623794e3c2d921be02989f83851277641e098f57109a1c30c5f833cccb9c11dc3b449252e9ddfba3e2b32014fd53af71c2f1103126c70783d2"
 
 [update]
-[update.curseforge]
-file-id = 7884064
-project-id = 1297381
+[update.modrinth]
+mod-id = "mJhVtlhq"
+version = "JrZUtgNz"
