@@ -1,0 +1,13 @@
+name = "Daily Boss x Bosses'Rise"
+filename = "DailyBoss-BossesRise-1.21.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "772d4da1cb0144944611ea38a4e1a7ab7ed9ff7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7696092
+project-id = 1377888

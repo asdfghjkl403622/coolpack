@@ -1,0 +1,13 @@
+name = "X Ray"
+filename = "x-ray-v1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7c59d12816568c1a3e62b9a82e10b10bcb22a0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7607699
+project-id = 1414354

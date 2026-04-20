@@ -1,0 +1,13 @@
+name = "Daily Boss x Bosses of Mass Destruction"
+filename = "DailyBoss-BossesofMassDestruction-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "125aeeee2146475baa6ff63fd2181f703f8168ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7201342
+project-id = 1381056

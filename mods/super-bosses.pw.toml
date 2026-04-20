@@ -1,0 +1,13 @@
+name = "Super Bosses"
+filename = "superbosses-2.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "228b32d92b24733d32affb1e106ad7ec4149eaee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7062913
+project-id = 964464
