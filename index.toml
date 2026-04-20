@@ -1,52 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/.connector/DAP ur Homie!2.2.1_mapped_moj_1.21.1.jar"
-hash = "39cfb5625cdea43afae99309f3287ff011b5d0c0c6e7e7bdd1f45c958fc40aeb"
-
-[[files]]
-file = "mods/.connector/DAP ur Homie!2.2.1_mapped_moj_1.21.1.jar.input"
-hash = "4e600d54591dd9ee3a08221a0dd7195e5b95eee94a35f037b1bbd348ee6299cd"
-
-[[files]]
-file = "mods/.connector/patch_audit.txt"
-hash = "894031c9414569a71d4b44ca525c654d5d07f848afad79c2a3a57cbb025421e4"
-
-[[files]]
-file = "mods/.connector/polaroidcamera-1.8.5_mapped_moj_1.21.1.jar"
-hash = "974d474b5485c76497a4aee9d3ea324e5b6da6f5eb9dbcb795f128bd451c855d"
-
-[[files]]
-file = "mods/.connector/polaroidcamera-1.8.5_mapped_moj_1.21.1.jar.input"
-hash = "7602adc8a24a9e1499526d7958a7cb289fc39f10ec45bf83b1c232154ba132b5"
-
-[[files]]
-file = "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar"
-hash = "07f449b7766845883523ffadb8fb706ec011c1212aa378b48bea5841188f0b04"
-
-[[files]]
-file = "mods/CreateDragonsPlus-1.9.1.jar"
-hash = "8775d7818e46d400f2d39ee1ce31f647debcba113238e3d3f3a98725de31f6e7"
-
-[[files]]
-file = "mods/DailyDad-neoforge-1.21.1-2.0.1.jar"
-hash = "eeb01c0b76af826894400b18e8ab2941d82dc2129de2640cb7079585d25be7cd"
-
-[[files]]
-file = "mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar"
-hash = "31589ffc136ac031319db88fa7ce2599ba789ae5d18bd5125e1857e20a834993"
-
-[[files]]
-file = "mods/JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar"
-hash = "5c398d29797fea30f43b195c0e74e9fcab5b028291400f5ce54871d7c3c7dcda"
-
-[[files]]
-file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
-hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
-
-[[files]]
-file = "mods/XaeroZoomout-NeoForge-1.21-2.0.0.jar"
-hash = "152452e8abf28d5ebb2f259c725c50f611b727f3ab2aa80a9ac7847f4128d0a7"
+file = "README.md"
+hash = "99e5cc2165dc1d4a068f84f4ed6c30bc5f967ab37695f2a1551ea2073714c5a1"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -57,10 +13,6 @@ metafile = true
 file = "mods/addonslib.pw.toml"
 hash = "d921cda68b79fed86082f116016a6b5513023fd2b815fea3e29fa9f28619506b"
 metafile = true
-
-[[files]]
-file = "mods/aether-1.21.1-1.5.10-neoforge.jar"
-hash = "a999a9265eb550a46a0f8eedfee7c3c75371d7f6cf34b7c09ff800e48633e9f8"
 
 [[files]]
 file = "mods/aether-villages.pw.toml"
@@ -133,10 +85,6 @@ hash = "8e2b38b8c4788d37fd0b55192a3dca6e19174e314dcdb628578c633e5f527ff2"
 metafile = true
 
 [[files]]
-file = "mods/bosses-addition-1.3.6.jar"
-hash = "e35423efd50cca410a55ca6688e5b097cfb9b38fac06336ffdfe76417dc018ac"
-
-[[files]]
 file = "mods/bosses-addition.pw.toml"
 hash = "6f0fe0b29bcae09a17592d5e9f2a27b2bbca44937c4fa6dce4d9539e24b40c81"
 metafile = true
@@ -155,10 +103,6 @@ metafile = true
 file = "mods/camerapture.pw.toml"
 hash = "327d07d6916799b8906620d2fac03cbf80b4e157e94eae5ace6e0d552a332f7e"
 metafile = true
-
-[[files]]
-file = "mods/cc-tweaked-1.21.1-forge-1.117.1.jar"
-hash = "828d37b1fd2360db026c0cc1053373ada02d1aadd6e3ec3b787c8bfd718615ca"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
@@ -209,10 +153,6 @@ metafile = true
 file = "mods/configurable.pw.toml"
 hash = "dc6adf5804d410e8941312e75b8dce731d66aa00255f5b4ed48113da03c97730"
 metafile = true
-
-[[files]]
-file = "mods/connector-2.0.0-beta.14+1.21.1-full.jar"
-hash = "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b"
 
 [[files]]
 file = "mods/connector.pw.toml"
@@ -340,10 +280,6 @@ hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
-file = "mods/farmers-cutting-biomes-o-plenty-2.0.0.jar"
-hash = "9fb30ba63cd1da67c22b5bb551b6aba9110affb696e1a511f88c14c4d848940f"
-
-[[files]]
 file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
 hash = "e8a8b5217e3cac90c7e42a9698c9d3da408a5de99d590eab025653fa7d8b8911"
 metafile = true
@@ -374,10 +310,6 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
-hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
@@ -401,10 +333,6 @@ metafile = true
 file = "mods/gravestone-mod.pw.toml"
 hash = "2ac1df7fad83d36e69b4aaad32f0b952c9b039d7345592bb66934f40a8606224"
 metafile = true
-
-[[files]]
-file = "mods/gravestone-neoforge-1.21.1-1.0.35.jar"
-hash = "86961d4c628344545492c0a4c45c92fd1ea9d8db6863174d0be49d9edccb23b1"
 
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
@@ -502,10 +430,6 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
-file = "mods/kotlinforforge-5.11.0-all.jar"
-hash = "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
-
-[[files]]
 file = "mods/let-me-feed-you.pw.toml"
 hash = "1d20c1bdd3947875bafc3d35f8ecfbe8d67622ccf2fc5a19e573fa1f0131f900"
 metafile = true
@@ -589,10 +513,6 @@ metafile = true
 file = "mods/macaws-windows.pw.toml"
 hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
-
-[[files]]
-file = "mods/maplink-neoforge-4.4.0-1.21-1.21.1.jar"
-hash = "580ea90fcc4960b396fa775edc8da0c3568cc06e3234ed43a4f9cd0e18ed9453"
 
 [[files]]
 file = "mods/maplink.pw.toml"
