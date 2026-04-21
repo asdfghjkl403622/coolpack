@@ -1,13 +1,13 @@
 name = "Just Enough Archaeology"
-filename = "jearchaeology-1.21.0-1.1.5.jar"
+filename = "jearchaeology-1.21.1-1.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "db6532fc1630450bac0a4d38ce87feb97696b88f"
+hash = "385e4937144b20c6cbf103945a73066f8dc1bc74"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5712827
+file-id = 7768445
 project-id = 890755

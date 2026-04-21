@@ -115,11 +115,6 @@ hash = "1cb3db95dbf424de74a4572994d7b32fc8560dc31e0495d10825f195b2103462"
 metafile = true
 
 [[files]]
-file = "mods/chance-cubes.pw.toml"
-hash = "9259db5fc0534fa4680a0b816d582f1787d0a981e38e72fd55ceee750c86aa9b"
-metafile = true
-
-[[files]]
 file = "mods/charta.pw.toml"
 hash = "21917cf29baf75118cdf6e3ab5e488973ea78c1fc091e480ec8713b9f7f55059"
 metafile = true
@@ -176,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
+hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
@@ -386,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-archaeology.pw.toml"
-hash = "5935577e358a097a49639d7f16cbd9f9206733578a34630ccfff5601e6a66e7c"
+hash = "9b8fefa5ff234c5fce2b3a3ef0ba230997e09718874f9ce4a6ce471115f2ca95"
 metafile = true
 
 [[files]]
@@ -741,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
-hash = "0b4cf51262a504d5f46d4d2c7ee478e378c1e96df6935ec6c6385fb2d304ce42"
+hash = "3a9d0e46e7f7cfafa88e5cca45dcc605abeb45043d433a814e2bec6727253d3b"
 metafile = true
 
 [[files]]
