@@ -625,11 +625,6 @@ hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
-file = "mods/polaroidcamera.pw.toml"
-hash = "51cc9e900729b9fbf6c80408c9f59399b2f7391ee4560961b67c32c4e7983193"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -677,11 +672,6 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "b3b444ca79a5786d5c7589a7119fcf4c3e4cf73c70860c17acb63c88fc06749a"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "eff7ebd7bc65ef5d3ba8ac731bc3fb2fd9697566f53dcedbfc55d0b4bb55d60d"
 metafile = true
 
 [[files]]
