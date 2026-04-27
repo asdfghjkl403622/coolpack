@@ -120,11 +120,6 @@ hash = "1cb3db95dbf424de74a4572994d7b32fc8560dc31e0495d10825f195b2103462"
 metafile = true
 
 [[files]]
-file = "mods/charta.pw.toml"
-hash = "d23aaff6394de10f6e9cca77f15d1a766989fd6ad23fee361a4566869225ee47"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "cc79252ae16dc896c5e3fd0a5b47114ade035eed270482c13a062e78283f232d"
 metafile = true
@@ -262,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/dis-enchanting-table.pw.toml"
 hash = "a35abc9918ab470587cb18f05a37918a921ec0ae59f1c256ebec3c20d819904e"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
 metafile = true
 
 [[files]]
