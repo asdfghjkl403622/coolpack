@@ -1,0 +1,13 @@
+name = "Minecraft SQLite JDBC"
+filename = "sqlite-jdbc-3.53.0.0+2026-04-14-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bTTf2DEw/versions/Dp5AlTCK/sqlite-jdbc-3.53.0.0%2B2026-04-14-all.jar"
+hash-format = "sha512"
+hash = "7a75f472f54842fca1eb592548a1c1247b02fe9c2d9912c53add2579b30a2fee30c038737550170264828a40a66a2e31cbaadfdad3a00cdd2e11681f75afa02e"
+
+[update]
+[update.modrinth]
+mod-id = "bTTf2DEw"
+version = "Dp5AlTCK"

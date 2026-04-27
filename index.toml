@@ -530,6 +530,11 @@ hash = "cde0265f751c5ad8ab34f759462a358dd8d45472a480651f143a1024781d0bcb"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-sqlite-jdbc.pw.toml"
+hash = "9ee130294cb58968b890f7debdf8a8f8a4f87bc8b471536174d1f0803876d604"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "11fb01369bb143bcf8ff4cba665ba9583f9b66e7fd17103ae36e52cc934a05d1"
 metafile = true
