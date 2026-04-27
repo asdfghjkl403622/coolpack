@@ -1,0 +1,13 @@
+name = "pv-addon-broadcast"
+filename = "pv-addon-broadcast-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZI9h3Y7k/versions/cOSaDzt7/pv-addon-broadcast-1.1.1.jar"
+hash-format = "sha512"
+hash = "d6be6ea7be191cecc81ba30f8efedd242f78ea1d21d5dee8b18183e68f8755395c745c515cce9c8467daf1424f94d9ab9bd444443829e642f87f4571dc9ad676"
+
+[update]
+[update.modrinth]
+mod-id = "ZI9h3Y7k"
+version = "cOSaDzt7"

@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "39ce49ddeea3841eb6191ca72cd9df332e97b792627e77e834b423047108c6c9"
+hash = "711e6fc567eb2a2786c27245e13cc1ee9327c0fa43d7d4a58d0dc2436c536457"
 metafile = true
 
 [[files]]
@@ -622,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-broadcast.pw.toml"
+hash = "b6e0089541c37b1514bf411190b00de04901e1d868ceb6d71ed7a3baf6c3e5c1"
 metafile = true
 
 [[files]]
