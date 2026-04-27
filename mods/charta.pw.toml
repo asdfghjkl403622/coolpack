@@ -1,13 +1,13 @@
 name = "Charta"
-filename = "charta-1.1.0-neoforge-1.21.1.jar"
+filename = "charta-fabric-1.21.1-1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8b2f8a5cccb48dab32a55ac0eba7d404cca8a420"
+hash = "5b0245c721f29139ddb29c98f4101363e1687966"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6513645
+file-id = 7999828
 project-id = 1150549
