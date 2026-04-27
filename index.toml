@@ -150,11 +150,6 @@ hash = "dc6adf5804d410e8941312e75b8dce731d66aa00255f5b4ed48113da03c97730"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
@@ -245,11 +240,6 @@ hash = "17347b9c37ec60060d1f5d3146cb2a819710abdaba0707e46fb128f366e083d0"
 metafile = true
 
 [[files]]
-file = "mods/dap-ur-homies.pw.toml"
-hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
-metafile = true
-
-[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "183f4532b3c853915ec256a6dd57ef582cb6dd1b08cf593101d99ff6dd75be0b"
 metafile = true
@@ -267,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "36732fd7fdad0831fdaef0c806def4ebcab5084bfd851bcff5e948923cd1b1d7"
 metafile = true
 
 [[files]]
@@ -627,11 +622,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
-metafile = true
-
-[[files]]
-file = "mods/polaroid-camera.pw.toml"
-hash = "1c42f86584e60743dc0099ece0e1e9ac9948c101c1472382ee00da701faaf456"
 metafile = true
 
 [[files]]
