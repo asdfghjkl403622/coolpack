@@ -15,13 +15,12 @@ hash = "d921cda68b79fed86082f116016a6b5513023fd2b815fea3e29fa9f28619506b"
 metafile = true
 
 [[files]]
-file = "mods/aether-villages.pw.toml"
-hash = "56012b11efef62f768ab4c035dc4d6adc5fd72a37021342e78fe36895c6bfdce"
-metafile = true
+file = "mods/aether-1.21.1-1.5.10-neoforge.jar"
+hash = "5ef5dd21f68e7a90bfdccc5a541d05d8788a5b3f95e8b886b28686b9f0012bcf"
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
+file = "mods/aether-villages.pw.toml"
+hash = "56012b11efef62f768ab4c035dc4d6adc5fd72a37021342e78fe36895c6bfdce"
 metafile = true
 
 [[files]]
