@@ -369,13 +369,13 @@ hash = "d480787d9c86b5abe27284195ace63101ac1ccea7f2cb39649b4dcd172932e7e"
 metafile = true
 
 [[files]]
-file = "mods/incendium.pw.toml"
-hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
+file = "mods/interiors.pw.toml"
+hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
 metafile = true
 
 [[files]]
-file = "mods/interiors.pw.toml"
-hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
+file = "mods/invmove.pw.toml"
+hash = "a246c345f9568f6b244d017c4201c6170b1ad54808c9c4799c146a0a794663aa"
 metafile = true
 
 [[files]]
