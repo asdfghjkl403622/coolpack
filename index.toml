@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a567cd22b6f35cb5f71b4aa394c01d341ce01274c9b6256cbcc6f48a450a2ba3"
+hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "651772c295e73ac60d5efd546dfa3bfa2263330cbb9db45eec9435ef8696b94b"
+hash = "31c3ae5e39797bb91e2b17a13d0fbf2cf5b5d87f586441020b12f7fd6e3c607a"
 metafile = true
 
 [[files]]
@@ -796,11 +796,6 @@ metafile = true
 [[files]]
 file = "mods/wunderlib-neoforge.pw.toml"
 hash = "2db6150114a149ac922dda026392b401969e31bd4b93e28c44296a9ec712bd65"
-metafile = true
-
-[[files]]
-file = "mods/x-ray-bc.pw.toml"
-hash = "dd7b3556d06b0740a83ba70f385fb066091d25141ba6cb516230c3906bffc302"
 metafile = true
 
 [[files]]
