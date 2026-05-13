@@ -1,13 +1,13 @@
 name = "Relics"
-filename = "relics-1.21.1-0.11.16.jar"
+filename = "relics-1.21.1-0.12.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "da5816bdbef3ceeca1146f19a21d17406d661c7a"
+hash = "3e6595a230f1d7a14b676ae05555fbff3f4d9f45"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8009998
+file-id = 8077792
 project-id = 445274
